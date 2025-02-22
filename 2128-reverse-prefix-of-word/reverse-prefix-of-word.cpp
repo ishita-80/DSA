@@ -1,22 +1,23 @@
 class Solution {
 public:
-    void reversePart(string &word,int s, int e){
-        while(s<e){
-            swap(word[s++],word[e--]);
-        }
-        return;
-    }
     string reversePrefix(string word, char ch) {
-        int n=word.size();
-        int end=-1;
+        stack<char>st;
+        int nextIndex=-1,n=word.size();
         for(int i=0;i<n;i++){
+            st.push(word[i]);
             if(word[i]==ch){
-                end=i;
+                nextIndex=i+1;
                 break;
             }
         }
-        if(end==-1) return word;
-        reversePart(word,0,end);
-        return word;
+         if(nextIndex==-1) return word;
+        string s="";
+        while(!st.empty()){
+            s+=st.top();
+            st.pop();
+        }
+       
+        s+=word.substr(nextIndex,n);
+        return s;
     }
 };
