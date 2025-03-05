@@ -1,10 +1,23 @@
 class Solution {
     int findLS(int targetVal,vector<int>& pS,int size){
-        int i=size;
-        while(targetVal<pS[i]){
-            i--;
+        // int i=size;
+        // while(targetVal<pS[i]){
+        //     i--;
+        // }
+        // return i;
+        int s=0,e=size;
+        int ans=0;
+        while(s<=e){
+            int mid=s+(e-s)/2;
+            if(pS[mid]<=targetVal) {
+                ans=mid;
+                s=mid+1;               
+            }
+            else{
+                e=mid-1;
+            }
         }
-        return i;
+        return ans;
     }
 public:
     vector<int> answerQueries(vector<int>& nums, vector<int>& queries) {
