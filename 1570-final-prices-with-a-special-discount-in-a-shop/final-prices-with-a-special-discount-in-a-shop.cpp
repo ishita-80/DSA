@@ -1,26 +1,27 @@
 class Solution {
 public:
     vector<int> finalPrices(vector<int>& prices) {
-        stack<int>st;
-        st.push(-1);
-        int n=prices.size();
-        vector<int> nextSmallEqualEle(n);
-        for(int i=n-1;i>=0;i--){
-            while(st.top()!=-1 && st.top()>prices[i] ){
+         stack<int>st;
+         st.push(-1);
+         int n=prices.size();
+         vector<int>final(n);
+         for(int i=n-1;i>=0;i--){
+            int curr=prices[i];
+            while(st.top()>curr){
                 st.pop();
             }
-             nextSmallEqualEle[i]=st.top();
-             st.push(prices[i]);
+            if(st.top()==-1){
+                final[i]=curr;
+                st.push(curr);
+            }
+            else{           
+            final[i]=curr-st.top();
+            st.push(curr);
+            }
             
-        }
-        for(int i=0;i<n;i++){
-            if(nextSmallEqualEle[i]!=-1){
-            nextSmallEqualEle[i]=prices[i]-nextSmallEqualEle[i];
-            }
-            else{
-                nextSmallEqualEle[i]=prices[i];
-            }
-        }
-        return nextSmallEqualEle;
+
+         }
+         return final;
+         
     }
 };
