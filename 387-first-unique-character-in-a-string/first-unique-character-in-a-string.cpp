@@ -1,31 +1,17 @@
 class Solution {
 public:
     int firstUniqChar(string s) {
-        queue<pair<char,int>>q;
-        int freq[26]={0};
-        int indexOfAns=0;
-        
+        int mapped[26]={0};
+
         for(int i=0;i<s.size();i++){
-            bool flag=0;
-            freq[s[i]-'a']++;
-            q.push({s[i],i});
-            while(!q.empty()){
-                char frontChar=q.front().first;
-                if(freq[frontChar-'a']>1){
-                    q.pop();
-                }
-                else{
-                    indexOfAns=q.front().second;
-                    flag=1;
-                    break;
-                }
-            }
-            if(flag==0){
-                indexOfAns=-1;
-            }
-            
-            
+            mapped[s[i]-'a']++;
+
         }
-        return indexOfAns;
+        //queue<char>q;
+        for(int i=0;i<s.size();i++){
+            if(mapped[s[i]-'a']>1) continue;
+            return i;
+        }
+        return -1;
     }
 };
