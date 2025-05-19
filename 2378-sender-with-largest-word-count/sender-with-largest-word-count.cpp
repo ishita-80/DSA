@@ -17,33 +17,34 @@ public:
             }
             if(mpp.find(senders[i])!=mpp.end()){
                 mpp[senders[i]]+=count;
-                if(p.first<mpp[senders[i]]){
-                    p.first=mpp[senders[i]];
-                    p.second=senders[i];
-                }
-                else if(p.first==mpp[senders[i]]){
-                    if(p.second<senders[i]) {
-                        p.first=mpp[senders[i]];
-                        p.second=senders[i]; 
-                    }
+                //summarizes the code at one place
+                // if(p.first<mpp[senders[i]]){
+                //     p.first=mpp[senders[i]];
+                //     p.second=senders[i];
+                // }
+                // else if(p.first==mpp[senders[i]]){
+                //     if(p.second<senders[i]) {
+                //         p.first=mpp[senders[i]];
+                //         p.second=senders[i]; 
+                //     }
                    
-                }
+                // }
             }
             else {
                 mpp[senders[i]]=count;
-                
-                if(p.first<mpp[senders[i]]){
+            }
+            if(p.first<mpp[senders[i]]){
                     p.first=mpp[senders[i]];
                     p.second=senders[i];
-                }
-                else if(p.first==mpp[senders[i]]){
+            }
+            else if(p.first==mpp[senders[i]]){
                     if(p.second<senders[i]) {
                         p.first=mpp[senders[i]];
                         p.second=senders[i]; 
                     }
                 
-                }
             }
+            
             i++;
         }
         return p.second;
