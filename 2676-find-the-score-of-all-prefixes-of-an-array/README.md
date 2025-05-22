@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array">Find the Score of All Prefixes of an Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>We define the <strong>conversion array</strong> <code>conver</code> of an array <code>arr</code> as follows:</p>
+<h2><a href="https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array">2676. Find the Score of All Prefixes of an Array</a></h2><h3>Medium</h3><hr><p>We define the <strong>conversion array</strong> <code>conver</code> of an array <code>arr</code> as follows:</p>
 
 <ul>
 	<li><code>conver[i] = arr[i] + max(arr[0..i])</code> where <code>max(arr[0..i])</code> is the maximum value of <code>arr[j]</code> over <code>0 &lt;= j &lt;= i</code>.</li>
