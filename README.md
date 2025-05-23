@@ -25,8 +25,17 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ishita-80/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/ishita-80/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ishita-80/DSA/tree/master/0219-contains-duplicate-ii) |
+## String
+|  |
+| ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/ishita-80/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
+## Counting
+|  |
+| ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/ishita-80/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 <!---LeetCode Topics End-->
