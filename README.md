@@ -40,4 +40,16 @@
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ishita-80/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ishita-80/DSA/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ishita-80/DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ishita-80/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
