@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [2571-find-the-pivot-integer](https://github.com/ishita-80/DSA/tree/master/2571-find-the-pivot-integer) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/ishita-80/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Hash Table
 |  |
 | ------- |
