@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ishita-80/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0713-subarray-product-less-than-k](https://github.com/ishita-80/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/ishita-80/DSA/tree/master/0724-find-pivot-index) |
 | [1206-corporate-flight-bookings](https://github.com/ishita-80/DSA/tree/master/1206-corporate-flight-bookings) |
 | [2102-find-the-middle-index-in-array](https://github.com/ishita-80/DSA/tree/master/2102-find-the-middle-index-in-array) |
@@ -13,6 +14,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/ishita-80/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/ishita-80/DSA/tree/master/0724-find-pivot-index) |
 | [1206-corporate-flight-bookings](https://github.com/ishita-80/DSA/tree/master/1206-corporate-flight-bookings) |
 | [2102-find-the-middle-index-in-array](https://github.com/ishita-80/DSA/tree/master/2102-find-the-middle-index-in-array) |
@@ -32,6 +34,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ishita-80/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0713-subarray-product-less-than-k](https://github.com/ishita-80/DSA/tree/master/0713-subarray-product-less-than-k) |
 ## String
 |  |
 | ------- |
@@ -56,4 +59,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ishita-80/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ishita-80/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Binary Search
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/ishita-80/DSA/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
