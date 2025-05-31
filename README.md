@@ -32,21 +32,25 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ishita-80/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ishita-80/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ishita-80/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ishita-80/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ishita-80/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/ishita-80/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ishita-80/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## String
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ishita-80/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ishita-80/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3194-find-words-containing-character](https://github.com/ishita-80/DSA/tree/master/3194-find-words-containing-character) |
 ## Counting
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ishita-80/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ishita-80/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Stack
 |  |
 | ------- |
