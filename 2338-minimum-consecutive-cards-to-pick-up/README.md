@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up">Minimum Consecutive Cards to Pick Up</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an integer array <code>cards</code> where <code>cards[i]</code> represents the <strong>value</strong> of the <code>i<sup>th</sup></code> card. A pair of cards are <strong>matching</strong> if the cards have the <strong>same</strong> value.</p>
+<h2><a href="https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up">2338. Minimum Consecutive Cards to Pick Up</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>cards</code> where <code>cards[i]</code> represents the <strong>value</strong> of the <code>i<sup>th</sup></code> card. A pair of cards are <strong>matching</strong> if the cards have the <strong>same</strong> value.</p>
 
 <p>Return<em> the <strong>minimum</strong> number of <strong>consecutive</strong> cards you have to pick up to have a pair of <strong>matching</strong> cards among the picked cards.</em> If it is impossible to have matching cards, return <code>-1</code>.</p>
 
