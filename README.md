@@ -9,6 +9,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/ishita-80/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/ishita-80/DSA/tree/master/0724-find-pivot-index) |
 | [0822-unique-morse-code-words](https://github.com/ishita-80/DSA/tree/master/0822-unique-morse-code-words) |
+| [0965-unique-email-addresses](https://github.com/ishita-80/DSA/tree/master/0965-unique-email-addresses) |
 | [1206-corporate-flight-bookings](https://github.com/ishita-80/DSA/tree/master/1206-corporate-flight-bookings) |
 | [1813-maximum-erasure-value](https://github.com/ishita-80/DSA/tree/master/1813-maximum-erasure-value) |
 | [2102-find-the-middle-index-in-array](https://github.com/ishita-80/DSA/tree/master/2102-find-the-middle-index-in-array) |
@@ -37,6 +38,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ishita-80/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0822-unique-morse-code-words](https://github.com/ishita-80/DSA/tree/master/0822-unique-morse-code-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ishita-80/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0965-unique-email-addresses](https://github.com/ishita-80/DSA/tree/master/0965-unique-email-addresses) |
 | [1813-maximum-erasure-value](https://github.com/ishita-80/DSA/tree/master/1813-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ishita-80/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/ishita-80/DSA/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -56,6 +58,7 @@
 | ------- |
 | [0822-unique-morse-code-words](https://github.com/ishita-80/DSA/tree/master/0822-unique-morse-code-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ishita-80/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0965-unique-email-addresses](https://github.com/ishita-80/DSA/tree/master/0965-unique-email-addresses) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ishita-80/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3194-find-words-containing-character](https://github.com/ishita-80/DSA/tree/master/3194-find-words-containing-character) |
 ## Counting
