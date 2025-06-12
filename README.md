@@ -17,6 +17,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ishita-80/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/ishita-80/DSA/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [3194-find-words-containing-character](https://github.com/ishita-80/DSA/tree/master/3194-find-words-containing-character) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ishita-80/DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Prefix Sum
 |  |
 | ------- |
