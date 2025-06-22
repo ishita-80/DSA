@@ -10,6 +10,7 @@
 | [0724-find-pivot-index](https://github.com/ishita-80/DSA/tree/master/0724-find-pivot-index) |
 | [0822-unique-morse-code-words](https://github.com/ishita-80/DSA/tree/master/0822-unique-morse-code-words) |
 | [0965-unique-email-addresses](https://github.com/ishita-80/DSA/tree/master/0965-unique-email-addresses) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/ishita-80/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1206-corporate-flight-bookings](https://github.com/ishita-80/DSA/tree/master/1206-corporate-flight-bookings) |
 | [1813-maximum-erasure-value](https://github.com/ishita-80/DSA/tree/master/1813-maximum-erasure-value) |
 | [2102-find-the-middle-index-in-array](https://github.com/ishita-80/DSA/tree/master/2102-find-the-middle-index-in-array) |
@@ -82,9 +83,18 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ishita-80/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ishita-80/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/ishita-80/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ishita-80/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ishita-80/DSA/tree/master/0713-subarray-product-less-than-k) |
+## Sorting
+|  |
+| ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/ishita-80/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
+## Simulation
+|  |
+| ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/ishita-80/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
