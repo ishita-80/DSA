@@ -97,4 +97,20 @@
 |  |
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/ishita-80/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/ishita-80/DSA/tree/master/0113-path-sum-ii) |
+## Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/ishita-80/DSA/tree/master/0113-path-sum-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/ishita-80/DSA/tree/master/0113-path-sum-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/ishita-80/DSA/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
