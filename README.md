@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ishita-80/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0677-map-sum-pairs](https://github.com/ishita-80/DSA/tree/master/0677-map-sum-pairs) |
 | [0822-unique-morse-code-words](https://github.com/ishita-80/DSA/tree/master/0822-unique-morse-code-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ishita-80/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/ishita-80/DSA/tree/master/0965-unique-email-addresses) |
@@ -58,6 +59,7 @@
 ## String
 |  |
 | ------- |
+| [0677-map-sum-pairs](https://github.com/ishita-80/DSA/tree/master/0677-map-sum-pairs) |
 | [0822-unique-morse-code-words](https://github.com/ishita-80/DSA/tree/master/0822-unique-morse-code-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ishita-80/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/ishita-80/DSA/tree/master/0965-unique-email-addresses) |
@@ -78,6 +80,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ishita-80/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ishita-80/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0677-map-sum-pairs](https://github.com/ishita-80/DSA/tree/master/0677-map-sum-pairs) |
 ## Queue
 |  |
 | ------- |
@@ -120,4 +123,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ishita-80/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0677-map-sum-pairs](https://github.com/ishita-80/DSA/tree/master/0677-map-sum-pairs) |
 <!---LeetCode Topics End-->
