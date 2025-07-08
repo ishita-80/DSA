@@ -110,23 +110,27 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ishita-80/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/ishita-80/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ishita-80/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/ishita-80/DSA/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ishita-80/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/ishita-80/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ishita-80/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/ishita-80/DSA/tree/master/0113-path-sum-ii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ishita-80/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/ishita-80/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ishita-80/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/ishita-80/DSA/tree/master/0113-path-sum-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ishita-80/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ishita-80/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Trie
 |  |
