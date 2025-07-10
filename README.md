@@ -60,6 +60,7 @@
 ## String
 |  |
 | ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/ishita-80/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0677-map-sum-pairs](https://github.com/ishita-80/DSA/tree/master/0677-map-sum-pairs) |
 | [0822-unique-morse-code-words](https://github.com/ishita-80/DSA/tree/master/0822-unique-morse-code-words) |
 | [0851-goat-latin](https://github.com/ishita-80/DSA/tree/master/0851-goat-latin) |
@@ -115,6 +116,7 @@
 | [0100-same-tree](https://github.com/ishita-80/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ishita-80/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/ishita-80/DSA/tree/master/0113-path-sum-ii) |
+| [0606-construct-string-from-binary-tree](https://github.com/ishita-80/DSA/tree/master/0606-construct-string-from-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 | [0100-same-tree](https://github.com/ishita-80/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ishita-80/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/ishita-80/DSA/tree/master/0113-path-sum-ii) |
+| [0606-construct-string-from-binary-tree](https://github.com/ishita-80/DSA/tree/master/0606-construct-string-from-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -129,6 +132,7 @@
 | [0100-same-tree](https://github.com/ishita-80/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ishita-80/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/ishita-80/DSA/tree/master/0113-path-sum-ii) |
+| [0606-construct-string-from-binary-tree](https://github.com/ishita-80/DSA/tree/master/0606-construct-string-from-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
