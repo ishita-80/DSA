@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/ishita-80/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ishita-80/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0503-next-greater-element-ii](https://github.com/ishita-80/DSA/tree/master/0503-next-greater-element-ii) |
@@ -119,6 +120,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ishita-80/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ishita-80/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ishita-80/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/ishita-80/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ishita-80/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/ishita-80/DSA/tree/master/0257-binary-tree-paths) |
@@ -141,6 +143,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ishita-80/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ishita-80/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ishita-80/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/ishita-80/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ishita-80/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/ishita-80/DSA/tree/master/0257-binary-tree-paths) |
@@ -159,4 +162,12 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/ishita-80/DSA/tree/master/0503-next-greater-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
