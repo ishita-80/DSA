@@ -82,6 +82,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ishita-80/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ishita-80/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ishita-80/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/ishita-80/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ishita-80/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/ishita-80/DSA/tree/master/0503-next-greater-element-ii) |
@@ -124,6 +125,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/ishita-80/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ishita-80/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ishita-80/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/ishita-80/DSA/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/ishita-80/DSA/tree/master/0606-construct-string-from-binary-tree) |
@@ -139,6 +141,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ishita-80/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/ishita-80/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ishita-80/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ishita-80/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/ishita-80/DSA/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/ishita-80/DSA/tree/master/0606-construct-string-from-binary-tree) |
@@ -154,6 +157,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/ishita-80/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ishita-80/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ishita-80/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/ishita-80/DSA/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/ishita-80/DSA/tree/master/0606-construct-string-from-binary-tree) |
