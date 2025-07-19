@@ -127,6 +127,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/ishita-80/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/ishita-80/DSA/tree/master/0652-find-duplicate-subtrees) |
+| [0783-search-in-a-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/ishita-80/DSA/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -154,6 +155,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/ishita-80/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/ishita-80/DSA/tree/master/0652-find-duplicate-subtrees) |
+| [0783-search-in-a-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/ishita-80/DSA/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
@@ -177,5 +179,6 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/ishita-80/DSA/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
