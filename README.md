@@ -132,6 +132,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/ishita-80/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishita-80/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0783-search-in-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ishita-80/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/ishita-80/DSA/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -147,6 +148,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/ishita-80/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/ishita-80/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishita-80/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ishita-80/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/ishita-80/DSA/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -164,6 +166,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/ishita-80/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishita-80/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0783-search-in-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ishita-80/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/ishita-80/DSA/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
@@ -171,6 +174,7 @@
 | [0100-same-tree](https://github.com/ishita-80/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ishita-80/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishita-80/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ishita-80/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Trie
 |  |
 | ------- |
@@ -190,6 +194,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishita-80/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0783-search-in-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ishita-80/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/ishita-80/DSA/tree/master/0975-range-sum-of-bst) |
 ## Two Pointers
 |  |
