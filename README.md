@@ -128,6 +128,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ishita-80/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/ishita-80/DSA/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ishita-80/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/ishita-80/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/ishita-80/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishita-80/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -145,6 +146,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ishita-80/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/ishita-80/DSA/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ishita-80/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/ishita-80/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/ishita-80/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishita-80/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -162,6 +164,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ishita-80/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/ishita-80/DSA/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ishita-80/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/ishita-80/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/ishita-80/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishita-80/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -173,6 +176,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/ishita-80/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ishita-80/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ishita-80/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishita-80/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ishita-80/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Trie
@@ -192,6 +196,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ishita-80/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishita-80/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ishita-80/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
