@@ -124,6 +124,7 @@
 | [0100-same-tree](https://github.com/ishita-80/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ishita-80/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/ishita-80/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ishita-80/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ishita-80/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ishita-80/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -145,6 +146,7 @@
 | [0098-validate-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ishita-80/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ishita-80/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/ishita-80/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ishita-80/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ishita-80/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ishita-80/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -166,6 +168,7 @@
 | [0100-same-tree](https://github.com/ishita-80/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ishita-80/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/ishita-80/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ishita-80/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ishita-80/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ishita-80/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -185,6 +188,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/ishita-80/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ishita-80/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/ishita-80/DSA/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/ishita-80/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ishita-80/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishita-80/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
