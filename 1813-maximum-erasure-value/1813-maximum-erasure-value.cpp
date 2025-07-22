@@ -1,25 +1,35 @@
 class Solution {
 public:
     int maximumUniqueSubarray(vector<int>& nums) {
-        unordered_set<int>stt;
-        int left=0,right=0;
-        int maxSum=0;
-        int sum=0;
-        while(right<nums.size()){
-            if(stt.find(nums[right])!=stt.end()){
-               while(left<right && stt.find(nums[right])!=stt.end()){
-                    sum-=nums[left];
-                    stt.erase(nums[left]);
-                    left++;
-                }
-                
+        unordered_map<int,int>mpp;
+        int l=0,r=0;
+        int ans=0,sum=0;
+        
+        while(r<nums.size()){
+            bool flag=0;
+            if(mpp.find(nums[r])==mpp.end()){
+                mpp[nums[r]]++;
+                sum+=nums[r];
+                ans=max(ans,sum);
+                flag=1;
             }
-                sum+=nums[right];
-                maxSum=max(sum,maxSum);
-                stt.insert(nums[right]);
-                right++;
+            else {
+                while(l<nums.size() && l<=r){
+                    mpp.erase(nums[l]);
+                    sum-=nums[l];
+                    l++;
+                    if(mpp.find(nums[r]) == mpp.end()){
+                        cout<<"hi";
+                        break;
+                    }
+
+                }
+            }
+            if(flag) r++;
 
         }
-        return maxSum;
+        ans=max(ans,sum);
+        return ans;
+
     }
 };
