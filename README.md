@@ -13,6 +13,7 @@
 | [0822-unique-morse-code-words](https://github.com/ishita-80/DSA/tree/master/0822-unique-morse-code-words) |
 | [0965-unique-email-addresses](https://github.com/ishita-80/DSA/tree/master/0965-unique-email-addresses) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/ishita-80/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ishita-80/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1206-corporate-flight-bookings](https://github.com/ishita-80/DSA/tree/master/1206-corporate-flight-bookings) |
 | [1813-maximum-erasure-value](https://github.com/ishita-80/DSA/tree/master/1813-maximum-erasure-value) |
 | [2102-find-the-middle-index-in-array](https://github.com/ishita-80/DSA/tree/master/2102-find-the-middle-index-in-array) |
@@ -86,6 +87,7 @@
 | [0225-implement-stack-using-queues](https://github.com/ishita-80/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ishita-80/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/ishita-80/DSA/tree/master/0503-next-greater-element-ii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ishita-80/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
 | ------- |
@@ -141,6 +143,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ishita-80/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/ishita-80/DSA/tree/master/0975-range-sum-of-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ishita-80/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -189,6 +192,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ishita-80/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/ishita-80/DSA/tree/master/0975-range-sum-of-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ishita-80/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -208,6 +212,7 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/ishita-80/DSA/tree/master/0503-next-greater-element-ii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ishita-80/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -225,6 +230,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ishita-80/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/ishita-80/DSA/tree/master/0975-range-sum-of-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ishita-80/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
