@@ -16,9 +16,19 @@ class Solution {
         //1 case
         if(root->val>=low && root->val<=high){
             sum+=root->val;
+            solve(root->left,low,high,sum);
+            solve(root->right,low,high,sum);
+           
         }
-        solve(root->left,low,high,sum);
-        solve(root->right,low,high,sum);
+        else if(root->val > high ){
+            solve(root->left,low,high,sum);
+
+        }
+        else if(root->val < low){
+            solve(root->right,low,high,sum);
+        }
+        
+        
     }
 public:
     int rangeSumBST(TreeNode* root, int low, int high) {
