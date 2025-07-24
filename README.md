@@ -10,6 +10,7 @@
 | [0503-next-greater-element-ii](https://github.com/ishita-80/DSA/tree/master/0503-next-greater-element-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/ishita-80/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/ishita-80/DSA/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/ishita-80/DSA/tree/master/0735-asteroid-collision) |
 | [0822-unique-morse-code-words](https://github.com/ishita-80/DSA/tree/master/0822-unique-morse-code-words) |
 | [0965-unique-email-addresses](https://github.com/ishita-80/DSA/tree/master/0965-unique-email-addresses) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/ishita-80/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -87,6 +88,7 @@
 | [0225-implement-stack-using-queues](https://github.com/ishita-80/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ishita-80/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/ishita-80/DSA/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/ishita-80/DSA/tree/master/0735-asteroid-collision) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ishita-80/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
@@ -113,6 +115,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/ishita-80/DSA/tree/master/0735-asteroid-collision) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/ishita-80/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Backtracking
 |  |
