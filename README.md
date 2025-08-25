@@ -174,6 +174,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/ishita-80/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishita-80/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ishita-80/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0871-keys-and-rooms](https://github.com/ishita-80/DSA/tree/master/0871-keys-and-rooms) |
 | [0975-range-sum-of-bst](https://github.com/ishita-80/DSA/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ishita-80/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ishita-80/DSA/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -218,6 +219,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ishita-80/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishita-80/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ishita-80/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0871-keys-and-rooms](https://github.com/ishita-80/DSA/tree/master/0871-keys-and-rooms) |
 ## Trie
 |  |
 | ------- |
@@ -253,4 +255,8 @@
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishita-80/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Graph
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/ishita-80/DSA/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
