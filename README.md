@@ -178,6 +178,7 @@
 | [0975-range-sum-of-bst](https://github.com/ishita-80/DSA/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ishita-80/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ishita-80/DSA/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [2121-find-if-path-exists-in-graph](https://github.com/ishita-80/DSA/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -220,6 +221,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishita-80/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ishita-80/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0871-keys-and-rooms](https://github.com/ishita-80/DSA/tree/master/0871-keys-and-rooms) |
+| [2121-find-if-path-exists-in-graph](https://github.com/ishita-80/DSA/tree/master/2121-find-if-path-exists-in-graph) |
 ## Trie
 |  |
 | ------- |
@@ -259,4 +261,9 @@
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/ishita-80/DSA/tree/master/0871-keys-and-rooms) |
+| [2121-find-if-path-exists-in-graph](https://github.com/ishita-80/DSA/tree/master/2121-find-if-path-exists-in-graph) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/ishita-80/DSA/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
