@@ -41,6 +41,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/ishita-80/DSA/tree/master/0127-word-ladder) |
 | [0219-contains-duplicate-ii](https://github.com/ishita-80/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0652-find-duplicate-subtrees](https://github.com/ishita-80/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishita-80/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -65,6 +66,7 @@
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/ishita-80/DSA/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/ishita-80/DSA/tree/master/0257-binary-tree-paths) |
 | [0606-construct-string-from-binary-tree](https://github.com/ishita-80/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0677-map-sum-pairs](https://github.com/ishita-80/DSA/tree/master/0677-map-sum-pairs) |
@@ -217,6 +219,7 @@
 | [0101-symmetric-tree](https://github.com/ishita-80/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ishita-80/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ishita-80/DSA/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/ishita-80/DSA/tree/master/0127-word-ladder) |
 | [0404-sum-of-left-leaves](https://github.com/ishita-80/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ishita-80/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/ishita-80/DSA/tree/master/0547-number-of-provinces) |
