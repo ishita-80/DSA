@@ -14,6 +14,7 @@
 | [0822-unique-morse-code-words](https://github.com/ishita-80/DSA/tree/master/0822-unique-morse-code-words) |
 | [0965-unique-email-addresses](https://github.com/ishita-80/DSA/tree/master/0965-unique-email-addresses) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/ishita-80/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1039-find-the-town-judge](https://github.com/ishita-80/DSA/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ishita-80/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1206-corporate-flight-bookings](https://github.com/ishita-80/DSA/tree/master/1206-corporate-flight-bookings) |
 | [1813-maximum-erasure-value](https://github.com/ishita-80/DSA/tree/master/1813-maximum-erasure-value) |
@@ -49,6 +50,7 @@
 | [0822-unique-morse-code-words](https://github.com/ishita-80/DSA/tree/master/0822-unique-morse-code-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ishita-80/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/ishita-80/DSA/tree/master/0965-unique-email-addresses) |
+| [1039-find-the-town-judge](https://github.com/ishita-80/DSA/tree/master/1039-find-the-town-judge) |
 | [1813-maximum-erasure-value](https://github.com/ishita-80/DSA/tree/master/1813-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ishita-80/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/ishita-80/DSA/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -267,6 +269,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/ishita-80/DSA/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/ishita-80/DSA/tree/master/0871-keys-and-rooms) |
+| [1039-find-the-town-judge](https://github.com/ishita-80/DSA/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ishita-80/DSA/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
