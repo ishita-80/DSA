@@ -270,6 +270,7 @@
 | [0547-number-of-provinces](https://github.com/ishita-80/DSA/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/ishita-80/DSA/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/ishita-80/DSA/tree/master/1039-find-the-town-judge) |
+| [1916-find-center-of-star-graph](https://github.com/ishita-80/DSA/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ishita-80/DSA/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
