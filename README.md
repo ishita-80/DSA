@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ishita-80/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ishita-80/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2571-find-the-pivot-integer](https://github.com/ishita-80/DSA/tree/master/2571-find-the-pivot-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ishita-80/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ishita-80/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
