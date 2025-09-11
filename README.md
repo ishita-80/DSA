@@ -83,6 +83,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/ishita-80/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/ishita-80/DSA/tree/master/0965-unique-email-addresses) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ishita-80/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2887-sort-vowels-in-a-string](https://github.com/ishita-80/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/ishita-80/DSA/tree/master/3194-find-words-containing-character) |
 ## Counting
 |  |
@@ -122,6 +123,7 @@
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/ishita-80/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ishita-80/DSA/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [2887-sort-vowels-in-a-string](https://github.com/ishita-80/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ishita-80/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Simulation
 |  |
