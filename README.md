@@ -61,6 +61,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ishita-80/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/ishita-80/DSA/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ishita-80/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ishita-80/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
 | ------- |
@@ -85,11 +86,13 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ishita-80/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2887-sort-vowels-in-a-string](https://github.com/ishita-80/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/ishita-80/DSA/tree/master/3194-find-words-containing-character) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ishita-80/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ishita-80/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ishita-80/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ishita-80/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
