@@ -22,6 +22,7 @@
 | [2102-find-the-middle-index-in-array](https://github.com/ishita-80/DSA/tree/master/2102-find-the-middle-index-in-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ishita-80/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/ishita-80/DSA/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2429-design-a-food-rating-system](https://github.com/ishita-80/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ishita-80/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/ishita-80/DSA/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [3194-find-words-containing-character](https://github.com/ishita-80/DSA/tree/master/3194-find-words-containing-character) |
@@ -63,6 +64,7 @@
 | [1813-maximum-erasure-value](https://github.com/ishita-80/DSA/tree/master/1813-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ishita-80/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/ishita-80/DSA/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2429-design-a-food-rating-system](https://github.com/ishita-80/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ishita-80/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ishita-80/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
@@ -88,6 +90,7 @@
 | [0965-unique-email-addresses](https://github.com/ishita-80/DSA/tree/master/0965-unique-email-addresses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ishita-80/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ishita-80/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2429-design-a-food-rating-system](https://github.com/ishita-80/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/ishita-80/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/ishita-80/DSA/tree/master/3194-find-words-containing-character) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ishita-80/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -115,6 +118,7 @@
 | [0225-implement-stack-using-queues](https://github.com/ishita-80/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ishita-80/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0677-map-sum-pairs](https://github.com/ishita-80/DSA/tree/master/0677-map-sum-pairs) |
+| [2429-design-a-food-rating-system](https://github.com/ishita-80/DSA/tree/master/2429-design-a-food-rating-system) |
 ## Queue
 |  |
 | ------- |
@@ -304,4 +308,12 @@
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ishita-80/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ishita-80/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/ishita-80/DSA/tree/master/2429-design-a-food-rating-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/ishita-80/DSA/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
