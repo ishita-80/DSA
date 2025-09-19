@@ -28,6 +28,7 @@
 | [3194-find-words-containing-character](https://github.com/ishita-80/DSA/tree/master/3194-find-words-containing-character) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ishita-80/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ishita-80/DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3797-design-spreadsheet](https://github.com/ishita-80/DSA/tree/master/3797-design-spreadsheet) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/ishita-80/DSA/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2429-design-a-food-rating-system](https://github.com/ishita-80/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ishita-80/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3797-design-spreadsheet](https://github.com/ishita-80/DSA/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ishita-80/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -93,6 +95,7 @@
 | [2429-design-a-food-rating-system](https://github.com/ishita-80/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/ishita-80/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/ishita-80/DSA/tree/master/3194-find-words-containing-character) |
+| [3797-design-spreadsheet](https://github.com/ishita-80/DSA/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ishita-80/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -119,6 +122,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/ishita-80/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0677-map-sum-pairs](https://github.com/ishita-80/DSA/tree/master/0677-map-sum-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/ishita-80/DSA/tree/master/2429-design-a-food-rating-system) |
+| [3797-design-spreadsheet](https://github.com/ishita-80/DSA/tree/master/3797-design-spreadsheet) |
 ## Queue
 |  |
 | ------- |
@@ -316,4 +320,8 @@
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/ishita-80/DSA/tree/master/2429-design-a-food-rating-system) |
+## Matrix
+|  |
+| ------- |
+| [3797-design-spreadsheet](https://github.com/ishita-80/DSA/tree/master/3797-design-spreadsheet) |
 <!---LeetCode Topics End-->
