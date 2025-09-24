@@ -43,6 +43,7 @@
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/ishita-80/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ishita-80/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ishita-80/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ishita-80/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/ishita-80/DSA/tree/master/0127-word-ladder) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ishita-80/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0219-contains-duplicate-ii](https://github.com/ishita-80/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0652-find-duplicate-subtrees](https://github.com/ishita-80/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishita-80/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -85,6 +87,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/ishita-80/DSA/tree/master/0127-word-ladder) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ishita-80/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0257-binary-tree-paths](https://github.com/ishita-80/DSA/tree/master/0257-binary-tree-paths) |
 | [0606-construct-string-from-binary-tree](https://github.com/ishita-80/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0677-map-sum-pairs](https://github.com/ishita-80/DSA/tree/master/0677-map-sum-pairs) |
