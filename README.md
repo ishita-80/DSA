@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ishita-80/DSA/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/ishita-80/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ishita-80/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -139,6 +140,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ishita-80/DSA/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/ishita-80/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/ishita-80/DSA/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/ishita-80/DSA/tree/master/0713-subarray-product-less-than-k) |
