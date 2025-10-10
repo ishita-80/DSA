@@ -12,6 +12,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ishita-80/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ishita-80/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/ishita-80/DSA/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/ishita-80/DSA/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/ishita-80/DSA/tree/master/0503-next-greater-element-ii) |
 | [0611-valid-triangle-number](https://github.com/ishita-80/DSA/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/ishita-80/DSA/tree/master/0713-subarray-product-less-than-k) |
