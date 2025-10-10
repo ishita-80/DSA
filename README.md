@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ishita-80/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ishita-80/DSA/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0189-rotate-array](https://github.com/ishita-80/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ishita-80/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ishita-80/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/ishita-80/DSA/tree/master/0283-move-zeroes) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/ishita-80/DSA/tree/master/0166-fraction-to-recurring-decimal) |
+| [0189-rotate-array](https://github.com/ishita-80/DSA/tree/master/0189-rotate-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ishita-80/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ishita-80/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ishita-80/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -305,6 +307,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ishita-80/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/ishita-80/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ishita-80/DSA/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/ishita-80/DSA/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishita-80/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
