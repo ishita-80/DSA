@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ishita-80/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ishita-80/DSA/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/ishita-80/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ishita-80/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ishita-80/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ishita-80/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -351,4 +352,8 @@
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/ishita-80/DSA/tree/master/0611-valid-triangle-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ishita-80/DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
