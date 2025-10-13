@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/ishita-80/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ishita-80/DSA/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0128-longest-consecutive-sequence](https://github.com/ishita-80/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ishita-80/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ishita-80/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ishita-80/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/ishita-80/DSA/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/ishita-80/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ishita-80/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0219-contains-duplicate-ii](https://github.com/ishita-80/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0652-find-duplicate-subtrees](https://github.com/ishita-80/DSA/tree/master/0652-find-duplicate-subtrees) |
@@ -327,6 +329,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ishita-80/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/ishita-80/DSA/tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ishita-80/DSA/tree/master/2121-find-if-path-exists-in-graph) |
 ## Linked List
