@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/ishita-80/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ishita-80/DSA/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ishita-80/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ishita-80/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ishita-80/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ishita-80/DSA/tree/master/0189-rotate-array) |
@@ -365,4 +366,5 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ishita-80/DSA/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ishita-80/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
