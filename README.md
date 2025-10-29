@@ -63,6 +63,7 @@
 | [2571-find-the-pivot-integer](https://github.com/ishita-80/DSA/tree/master/2571-find-the-pivot-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ishita-80/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ishita-80/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/ishita-80/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/ishita-80/DSA/tree/master/3830-find-closest-person) |
 ## Hash Table
 |  |
@@ -362,6 +363,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ishita-80/DSA/tree/master/0136-single-number) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/ishita-80/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
