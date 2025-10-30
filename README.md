@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ishita-80/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/ishita-80/DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ishita-80/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ishita-80/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ishita-80/DSA/tree/master/0053-maximum-subarray) |
@@ -315,6 +316,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ishita-80/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/ishita-80/DSA/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/ishita-80/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ishita-80/DSA/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/ishita-80/DSA/tree/master/0611-valid-triangle-number) |
