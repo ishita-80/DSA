@@ -8,6 +8,7 @@
 | [0031-next-permutation](https://github.com/ishita-80/DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ishita-80/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ishita-80/DSA/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/ishita-80/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ishita-80/DSA/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ishita-80/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ishita-80/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -57,6 +58,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ishita-80/DSA/tree/master/0048-rotate-image) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ishita-80/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/ishita-80/DSA/tree/master/0189-rotate-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ishita-80/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -359,6 +361,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ishita-80/DSA/tree/master/0048-rotate-image) |
 | [3797-design-spreadsheet](https://github.com/ishita-80/DSA/tree/master/3797-design-spreadsheet) |
 ## Greedy
 |  |
